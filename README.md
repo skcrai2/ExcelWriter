@@ -1,5 +1,5 @@
 # ExcelWriter
-Use Excel write to visualize your data in python and export to and excel spreadsheet
+Use Excel write to visualize your data in python and export to an excel spreadsheet
 
 Start by importing your libraries: numpy and pandas
 
